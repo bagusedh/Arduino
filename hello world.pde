@@ -19,3 +19,6 @@ void loop()
   lcd.print("bagusedh  Arduino!");
 
 }
+
+
+
