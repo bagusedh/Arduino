@@ -1,7 +1,3 @@
 # Arduino Projects 
 
 on progress..
-
-
-
-
